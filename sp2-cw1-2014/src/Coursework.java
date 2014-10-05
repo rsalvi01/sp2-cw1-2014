@@ -77,7 +77,7 @@ public class Coursework
 						//add element if it's not a zero and it's not in the known array
 						array[i] = temp;
 						count++;
-						i=count+1;
+						i=count;
 					}
 				}
 			}
