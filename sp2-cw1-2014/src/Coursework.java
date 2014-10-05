@@ -21,6 +21,7 @@ public class Coursework
 		array1 = test.fillArray(1);
 		array2 = test.fillArray(2);
 		
+		//if both arrays are empty, inform user and stop running
 		if(noElArray1 == 0 && noElArray2 == 0)
 		{
 			System.out.println("Both arrays are empty.");
